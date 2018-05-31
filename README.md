@@ -8,4 +8,6 @@ Pour lancer le server il suffit de faire : python manage.py runserver.
 
 Une fois sur le site vous pourrez cliquer sur le bouton livre d'or pour accéder au livre d'or. Vous pourrez ajouter des messages sur le site après avoir créer un compte. Vous pourrez ensuite effacer vos messages. En revanche vous pouvez voir les messages de tout les autres utilisateurs mais sans avoir la permission de les supprimer.
 
+C'était la toute première fois que je réalisais un projet en Python, html et css. Qui plus est avec Django et bootstrap. C'était donc très long d'apprendre toutes les docs notamment avec le temps imparti.
+
 
